@@ -1,0 +1,32 @@
+﻿{
+	"version": 1781941888,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/go_left-sheet0.png",
+		"images/go_right-sheet0.png",
+		"images/camera_control-sheet0.png",
+		"images/tile_bg_1.png",
+		"images/tile_bg_cloud.png",
+		"images/tile_bg_tree-sheet0.png",
+		"images/tile_bg_mountain.png",
+		"images/particles.png",
+		"images/btn_setting-sheet0.png",
+		"images/spritefont.png",
+		"images/pause-sheet0.png",
+		"images/black_overlay.png",
+		"images/btn_continue-sheet0.png",
+		"images/btn_menu-sheet0.png",
+		"images/btn_restart-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
